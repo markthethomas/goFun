@@ -1,0 +1,2 @@
+# goFun
+learning some GoLang
